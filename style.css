@@ -23,7 +23,7 @@ body {
     margin: auto;
 }
 
-/* Header */
+
 header {
     background-color: #263B70;
     color: white;
@@ -38,7 +38,6 @@ header {
     gap: 15px;
 }
 
-/* Logo */
 .logo {
     display: flex;
     align-items: center;
@@ -55,7 +54,7 @@ header {
     object-fit: contain;
 }
 
-/* Navigation */
+
 nav {
     display: flex;
     gap: 20px;
@@ -71,7 +70,7 @@ nav a:hover {
     color: #FFB84D;
 }
 
-/* Welcome Section */
+
 .hero {
     background-color: #EAE4FF;
     text-align: center;
@@ -88,7 +87,7 @@ nav a:hover {
     margin-bottom: 25px;
 }
 
-/* Button */
+
 .button {
     display: inline-block;
     background-color: #FFB84D;
@@ -103,7 +102,6 @@ nav a:hover {
     background-color: #FF8296;
 }
 
-/* Sections */
 .section {
     padding: 40px 0;
 }
@@ -113,7 +111,7 @@ nav a:hover {
     margin-bottom: 15px;
 }
 
-/* Services Grid */
+
 .services-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -139,7 +137,7 @@ nav a:hover {
     margin-bottom: 10px;
 }
 
-/* Contact Form */
+
 .contact-form {
     display: flex;
     flex-direction: column;
@@ -176,7 +174,6 @@ nav a:hover {
     color: #263B70;
 }
 
-/* Keyboard Focus */
 a:focus-visible,
 button:focus-visible,
 input:focus-visible,
@@ -185,7 +182,6 @@ textarea:focus-visible {
     outline-offset: 3px;
 }
 
-/* Footer */
 footer {
     background-color: #263B70;
     color: white;
