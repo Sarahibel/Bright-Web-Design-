@@ -2,7 +2,7 @@ Bright Web Design is a fictional small web design company. The company helps bus
 
 1. What accessibility challenges did you face, and how did you address them?
 
-One challenge I faced was making sure the website was easy for everyone to use. I added labels to the contact form, and colors that make the text easier to read. I also added keyboard focus so users can see which link or button they are selecting.
+The challenge I faced was making sure the website was easy for everyone to use. I added labels to the contact form, and colors that make the text easier to read. I also added keyboard focus so users can see which link or button they are selecting.
 
 2. How did you ensure that your design was responsive and accessible to all users?
 
